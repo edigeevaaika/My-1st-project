@@ -8,3 +8,13 @@ body{
   color: #111010;
   
 }
+h1,h2,h3,h4,h5,h6 {
+  font-family:DM sans;
+  font-weight: 400;
+  color:#111010;
+  
+}
+.container{
+  max-width: 1376px;
+  margin: 0 auto;
+}
