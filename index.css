@@ -61,4 +61,10 @@ nav ul li a {
 .main-img {
   background-image: url(./images/IMAGE.png);
   margin: 0 50px;
+  width: 1700px;
+  height: 780px;
+  text-transform: uppercase;
+  color: white;
+  padding: 35px;
+  font-size: 50px;
 }
