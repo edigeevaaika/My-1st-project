@@ -58,3 +58,6 @@ nav ul li a {
   text-decoration: none;
   color: black;
 }
+.main-img {
+  background-image: url(./images/IMAGE.png);
+}
