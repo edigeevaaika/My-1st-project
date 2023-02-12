@@ -70,6 +70,11 @@ nav ul li a {
   background-repeat: no-repeat;
   background-size: contain;
 }
+.inscription {
+  display: flex;
+  flex-direction: column;
+  align-content: space-between;
+}
 .poster{
   background-color: rgb(247, 185, 72);
   width: 300px;
