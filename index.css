@@ -94,4 +94,7 @@ nav ul li a {
   border-radius: 128px;
   height: 130px;
   width: 130px;
- }
+}
+.arrow{
+  position: relative;
+}
