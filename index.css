@@ -61,8 +61,8 @@ nav ul li a {
 .main-img {
   background-image: url(./images/IMAGE.png);
   margin: 0 50px;
-  width: 100%;
-  height: 1180px;
+  width: 1376px;
+  height: 640px;
   text-transform: uppercase;
   color: white;
   padding: 35px;
@@ -81,5 +81,10 @@ nav ul li a {
   margin-left: 1100px;
   margin-top: 310px;
   position: absolute;
-  
-}
+  background:#F1EBE4;;
+  border: 1px solid #000000;
+  height: 50px;
+  border-radius: 128px;
+  height: 130px;
+  width: 130px;
+ }
