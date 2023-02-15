@@ -4,7 +4,7 @@
 body{
   margin: 0;
   font-family:DM sans;
-  font-size:18px;
+  /* font-size:18px; */
   color: #111010;
   
 }
@@ -84,6 +84,14 @@ nav ul li a {
   height: 40px;
   align-items: center;
   position: relative;
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 18px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #111010;
 }
 .circle{
   margin-left: 1150px;
