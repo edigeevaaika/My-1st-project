@@ -62,7 +62,7 @@ nav ul li a {
   background-image: url(./images/IMAGE.png);
   margin: 0 auto;
   max-width: 1400px;
-  width: 1570px;
+  width: 100%;
   height: 780px;
   text-transform: uppercase;
   color: white;
