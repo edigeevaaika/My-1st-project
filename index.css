@@ -140,3 +140,6 @@ color: #fff;
   margin-right: 200px;
   margin-top: 15px;
 }
+.hover:hover {
+  border: blue;
+  }
