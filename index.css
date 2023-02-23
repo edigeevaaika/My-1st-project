@@ -38,6 +38,11 @@ h5{
 h6{
   font-size:20px;
 }
+
+.row { /* строка */
+  display: flex;
+  flex-wrap: wrap;
+}
 .header {
   display: flex;
   justify-content: space-between;
