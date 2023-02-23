@@ -125,7 +125,6 @@ color: #fff;
 }
 .lorem {
   font-size: 70px;
-  margin-left: -150px;
   max-width: 1000px;
 }
 .our {
@@ -142,4 +141,7 @@ color: #fff;
 }
 .hover:hover {
   border: blue;
-  }
+}
+.row{
+  display: flex;
+}
