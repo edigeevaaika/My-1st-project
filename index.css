@@ -189,3 +189,9 @@ color: #fff;
 .row{
   display: flex;
 }
+
+.bestsellers{
+height: 751px;
+background: #F1EBE4;
+border-radius: 0px;
+}
