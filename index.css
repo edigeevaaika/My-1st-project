@@ -240,8 +240,10 @@ border-bottom:1px solid #111010;
     height: 358px;
 }
 .order {
-  background-color: rgb(240, 154, 42);
   border-radius: 40%;
   padding: 5px 10px;
   margin-left: 40px;
-}
+  box-sizing: border-box;
+ background: #FFDB5B;
+ border: 1px solid #111010;
+ }
