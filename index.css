@@ -230,7 +230,8 @@ border-bottom:1px solid #111010;
 }
 .block5{
   height: 634px;
-}
+  background: #F1EBE4;
+ }
 .line{
   text-decoration-line: line-through;
 }
@@ -246,4 +247,7 @@ border-bottom:1px solid #111010;
   box-sizing: border-box;
  background: #FFDB5B;
  border: 1px solid #111010;
+ }
+ .content{
+  padding-top: 82px;
  }
