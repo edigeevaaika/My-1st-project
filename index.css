@@ -258,8 +258,13 @@ border-bottom:1px solid #111010;
  }
 span{
   font-size: 24px;
+  text-transform: uppercase;
 }
 .snowflakes{
   padding-top: 174px;
   text-align: center;
+  padding-bottom: 200px;
+}
+.block-6{
+  background: #E5E5E5;
 }
