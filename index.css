@@ -213,3 +213,7 @@ margin-right: 10px;
 height: 480px;
 width: 1440px;
 }
+.img-wrap img{
+  width: 100%;
+  display: block; 
+}
