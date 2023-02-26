@@ -241,12 +241,14 @@ border-bottom:1px solid #111010;
     height: 358px;
 }
 .order {
-  border-radius: 40%;
-  padding: 5px 10px;
-  margin-left: 40px;
+  border-radius: 1600px;
   box-sizing: border-box;
- background: #FFDB5B;
- border: 1px solid #111010;
+  background: #FFDB5B;
+  border: 1px solid #111010;
+  width: 256px;
+  font-size: 18px;
+  text-transform: uppercase;
+  height: 48px;
  }
  .content{
   padding-top: 82px;
@@ -254,3 +256,9 @@ border-bottom:1px solid #111010;
  #container{
   padding: 0 120px;
  }
+span{
+  font-size: 24px;
+}
+.snowflakes{
+  padding-top: 174px;
+}
