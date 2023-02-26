@@ -198,14 +198,7 @@ padding-top: 82px;
 .img-wrap{
   margin-top: 80px;
 }
-/* .img-circle{
-  position: relative;
-}
-.img2{
-  position: absolute;
-  right: 3px;
-  top: 3px;
-  /* width: 30%;  */
+
 .plates {
 font-size: 18px;
 margin-left: 10px;
@@ -217,7 +210,19 @@ width: 1440px;
   width: 100%;
   display: block; 
 }
-.img-circle{
+.sale{
+  position: absolute;
+  border: 1px solid black;
+  border-radius: 50%;
   width: 96px;
   height: 96px;
+  background-color: #FF9B3D;
+}
+.sale-in{
+  position: relative;
+  top: 37px;
+  left: 30px;
+}
+.main-header{
+border-bottom:1px solid #111010;  
 }
