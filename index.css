@@ -305,7 +305,10 @@ span{
   line-height: 5px;
   border-right: #111010;
  }
-
+ .keep-in-touch {
+  text-align: center;
+  padding: 30px;
+}
 .behind {
   display: flex;
   justify-content: space-between;
