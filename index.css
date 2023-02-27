@@ -281,12 +281,15 @@ span{
   padding:  0 0 0;
 }
 .semicircle {
-  background-color: rgb(235, 206, 206);
-  border: 1px solid black;
   margin-top: 40px;
   height: 466px;
   text-transform: uppercase;
   padding-top: 80px;
+}
+.block-9{
+  background: #F1EBE4;
+  border: 1px solid black;
+  margin-top: 160px;
 }
 .collection {
   background-image: url(./images/semicircle.png);
