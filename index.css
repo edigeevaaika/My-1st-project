@@ -280,3 +280,8 @@ span{
 .data{
   text-transform: uppercase;
 }
+.text{
+  text-transform: uppercase;
+  text-align: center;
+  padding: 120px 0 0 0;
+}
