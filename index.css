@@ -177,13 +177,8 @@ color: #fff;
 .see {
   display: flex;
   justify-content: flex-end;
-  text-decoration: none;
-  color: grey;
+  color: rgb(53, 50, 50);
   font-size: 20px;
-  border-bottom: 1px solid black;
-  /* width: 183px;
-  position: relative; */
-
 }
 .hover:hover {
   border: blue;
@@ -283,5 +278,29 @@ span{
 .text{
   text-transform: uppercase;
   text-align: center;
-  padding: 120px 0 0 0;
+  padding:  0 0 0;
+}
+.semicircle {
+  background-color: rgb(235, 206, 206);
+  border: 1px solid black;
+  margin-top: 40px;
+  height: 466px;
+  text-transform: uppercase;
+  padding-top: 80px;
+}
+.collection {
+  background-image: url(./icon/semicircle.png);
+  background-repeat: no-repeat;
+  height: 200px;
+  text-align: center;
+  background-position: center;
+     height: 304px;
+     background-size: auto 100%;
+     padding-top: 50px;
+ }
+.big{
+  font-size: 40px;
+}
+.collection{
+  
 }
