@@ -295,7 +295,6 @@ span{
 .collection {
   background-image: url(./images/semicircle.png);
   background-repeat: no-repeat;
-  height: 200px;
   text-align: center;
   background-position: center;
   height: 304px;
@@ -304,9 +303,24 @@ span{
   font-size: 40px;
   line-height: 5px;
  }
- .keep-in-touch {
+.keep-in-touch {
   text-align: center;
-  padding: 30px;
+  margin-top: -40px;
+}
+.keep{
+  margin-bottom: 25px;
+}
+.enter{
+  width: 304px;
+  height: 64px;
+  background: #FFFFFF;
+  border: 1px solid #111010;
+  border-radius: 20px;
+}
+.send{
+  background: #FFDB5B;
+  border: 1px solid #111010;
+  border-radius: 1600px;
 }
 .behind {
   display: flex;
