@@ -202,6 +202,7 @@ margin-left: 10px;
 margin-right: 10px;
 height: 480px;
 width: 1440px;
+background: #E5E5E5;
 }
 .img-wrap img{
   width: 100%;
@@ -304,10 +305,14 @@ span{
   line-height: 5px;
   border-right: #111010;
  }
- .
- .behind {
+
+.behind {
   display: flex;
   justify-content: space-between;
+}
+.be-text{
+  display: flex;
+  justify-content: flex-start;
 }
 .photo {
   margin: 100px 0px;
