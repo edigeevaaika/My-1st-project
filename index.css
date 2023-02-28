@@ -316,11 +316,14 @@ span{
   background: #FFFFFF;
   border: 1px solid #111010;
   border-radius: 20px;
+  font-size: 18px;
 }
 .send{
   background: #FFDB5B;
   border: 1px solid #111010;
   border-radius: 1600px;
+  padding: 20px 35px 20px 35px ;
+  margin-left: -60px;
 }
 .behind {
   display: flex;
