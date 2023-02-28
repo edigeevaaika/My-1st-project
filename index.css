@@ -365,6 +365,9 @@ span{
   background: #FFFFFF;
   border: 1px solid #111010;
   border-radius: 20px;
+  width: 304px;
+  height: 64px;
+  font-size: 18px;
 }
 .send-2{
   background: #FFDB5B;
