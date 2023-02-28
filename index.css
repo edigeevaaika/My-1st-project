@@ -4,7 +4,6 @@
 body{
   margin: 0;
   font-family:DM sans;
-  /* font-size:18px; */
   color: #111010;
   
 }
@@ -15,7 +14,6 @@ h1,h2,h3,h4,h5,h6 {
   font-family:DM sans;
   font-weight: 400;
   color:#111010;
-  
 }
 .container{
   max-width: 1406px;
@@ -91,7 +89,6 @@ h6{
   align-items: center;
   text-transform: uppercase;
 }
-
 nav ul {
   display: flex;
   list-style-type: none;
@@ -166,8 +163,8 @@ nav ul li a {
 .inscription h2{
   max-width: 652px;
   font-size: 96px;
-line-height: 106px;
-color: #fff;
+  line-height: 106px;
+  color: #fff;
 }
 .lorem {
   font-size: 70px;
@@ -265,13 +262,17 @@ border-bottom:1px solid #111010;
   padding: 0 120px;
  }
 span{
-  font-size: 24px;
+  /* font-size: 24px; */
   text-transform: uppercase;
 }
 .snowflakes{
   padding-top: 174px;
   text-align: center;
   padding-bottom: 200px;
+}
+.snowText{
+  text-transform: uppercase;
+  font-size: 128px;
 }
 .block-6{
   background: #E5E5E5;
