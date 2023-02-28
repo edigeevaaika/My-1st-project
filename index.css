@@ -189,10 +189,10 @@ color: #fff;
   display: flex;
 }
 .bestsellers{
-height: 751px;
 background: #F1EBE4;
 border-radius: 0px;
 padding-top: 82px;
+padding-bottom: 110px;
 }
 .img-wrap{
   margin-top: 80px;
