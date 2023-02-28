@@ -353,3 +353,10 @@ span{
   font-size: 200px;
   text-transform: uppercase;
 }
+.subscribe{
+  font-weight: 400;
+  font-size: 27px;
+  line-height: 30px;
+  text-transform: uppercase;
+  color: #111010;
+}
