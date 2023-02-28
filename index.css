@@ -128,14 +128,13 @@ nav ul li a {
   background-color: rgb(247, 185, 72);
   width: 300px;
   border-radius: 80px;
-  height: 40px;
+  line-height: 57px;
   align-items: center;
   position: relative;
   font-family: 'DM Sans';
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
-  line-height: 18px;
   text-align: center;
   text-transform: uppercase;
   color: #111010;
@@ -406,7 +405,8 @@ span{
 }
 .navigation{
   display: flex;
-  /* justify-content: space-around;
-  flex-direction: row-reverse; */
   justify-content: flex-end;
+}
+.block-3{
+  padding-left: 40px;
 }
