@@ -8,6 +8,9 @@ body{
   color: #111010;
   
 }
+li{
+  list-style-type: none;
+}
 h1,h2,h3,h4,h5,h6 {
   font-family:DM sans;
   font-weight: 400;
@@ -329,10 +332,6 @@ span{
   display: flex;
   justify-content: space-between;
 }
-.be-text{
-  display: flex;
-  justify-content: flex-start;
-}
 .photo {
   margin: 100px 0px;
   display: flex;
@@ -359,6 +358,7 @@ span{
   line-height: 30px;
   text-transform: uppercase;
   color: #111010;
+  padding-top: 67px;
 }
 .email{
   box-sizing: border-box;
@@ -368,10 +368,35 @@ span{
   width: 304px;
   height: 64px;
   font-size: 18px;
+  margin-top: 30px;
 }
 .send-2{
   background: #FFDB5B;
   border: 1px solid #111010;
   border-radius: 1600px;
   padding: 20px 35px 20px 35px ;
+}
+.author{
+  border-bottom: 1px solid #111010;
+  width: 370px;
+  margin-top: 83px;
+}
+.block-11{
+  height: 592px;
+  background: #CAB5EB;
+  width: 100%;
+}
+.content{
+  padding-top: 62px;
+}
+.social-network{
+  display: flex;
+  justify-content: flex-end;
+  gap: 37px;
+}
+.navigation{
+  display: flex;
+  /* justify-content: space-around;
+  flex-direction: row-reverse; */
+  justify-content: flex-end;
 }
