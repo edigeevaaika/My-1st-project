@@ -349,3 +349,7 @@ span{
 .photo-img:nth-child(2n){
   padding-top: 80px;
 }
+.big-text{
+  font-size: 200px;
+  text-transform: uppercase;
+}
