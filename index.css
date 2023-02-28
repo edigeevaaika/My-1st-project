@@ -207,6 +207,16 @@ height: 480px;
 width: 1440px;
 background: #E5E5E5;
 }
+.card-content {
+  height: 55px;
+  background: #CAB5EB;
+  font-size: 20px;
+  text-transform: uppercase;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-style: normal;
+}
 .img-wrap img{
   width: 100%;
   display: block; 
